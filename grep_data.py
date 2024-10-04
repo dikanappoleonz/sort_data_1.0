@@ -5,7 +5,7 @@ import time
 # Find All file with format csv
 files = glob.glob("*.csv")
 
-rows = input("Masukkan Nama Rows: ")
+rows = input("Masukkan Rows: ")
 print('\n')
 
 # Filetering Data
