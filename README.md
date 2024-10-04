@@ -15,7 +15,7 @@ Installing collected packages: pip
 Successfully installed pip-24.2
 ```
 
-- Install paramiko
+- Install pandas
 ```js
 C:\Users\dikaharba '>pip install pandas
 C:\Users\dikaharba '>pip list
